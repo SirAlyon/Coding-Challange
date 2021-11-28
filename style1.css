@@ -1,0 +1,82 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+}
+
+.quadrato{
+  background: rgba(0, 0, 0, 0.4);
+  width: 1200px;
+  height: 900px;
+  border-radius: 30px;
+  margin: 25px auto;
+}
+
+.header{
+    text-align: center;
+}
+
+#logo{
+  width: 330px;
+  height: 150px;
+  margin-top: 5%;
+}
+
+.title{
+  color: rgb(0, 255, 0);
+  margin-bottom: 5px;
+}
+
+.row{
+  width: 880px;
+  height: 45px;
+  background-color: rgba(0, 255, 0, 0.9);
+  margin-left: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#b1{
+  margin-right: 20px;
+}
+
+
+#mainmenu{
+    padding-left: 160px;
+    padding-top: 10px;
+    line-height: 1.5;
+    color: white;
+}
+
+.subtitle{
+  font-size: 30px;
+  margin-top: 30px;
+
+}
+
+#rechargerow{
+  width: 40%;
+  height: 35px;
+  background-color: orange;
+  border-radius: 10px;
+}
+
+#rechargerow1{
+  width: 65%;
+  height: 35px;
+  background-color: green;
+  border-radius: 10px;
+}
+
+#rechargerow2{
+  width: 15%;
+  height: 35px;
+  background-color: rgb(255, 49, 49, 0.7);
+  border-radius: 10px;
+}
+
+.space{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
